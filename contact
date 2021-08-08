@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>contact</title>
+</head>
+
+<body>
+    <ol>
+        <h1>contact </h1>
+        <p>-email:andanidres2001@gmail.com</p>
+        <p>-home:grove street</p>
+        <p>phone:0540789036</p>
+    </ol>
+    <form class="" action="mailto:andanidres2001@gmail.com" ?subject=feedback"><email me</a>" <method="post">
+        <label>your name</label>
+        <input type="text" name="your name" value=""><br>
+        <label>your email</label>
+        <input type="email" name="your email" value=""> <br>
+        <label>your message:</label>
+        <br> <textarea name="your message" rows="8" cols="80"></textarea>
+        <input type="checkbox" name="" value="">
+
+        <br><label>password</label>
+        <input type="password" name="" value="">
+        <br>
+        <label>compleet</label><input type="submit" name="submit" value="">
+    </form>
+
+</body>
+
+</html>
